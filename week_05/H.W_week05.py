@@ -1,4 +1,3 @@
-#
 # num = float(input("Enter a number: "))
 # if num > 0:
 #    print("Positive number")
@@ -52,5 +51,3 @@
 #            print(i)
 # num = int(input("Enter a number: "))
 # print_factors(num)
-
-num = int(input("Enter a number: "))
